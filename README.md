@@ -5,9 +5,9 @@
 
 ### About Me
 - 🌸 She/Her | 🇵🇭 | 2nd Year Student
-- 💬 Daytime Programming Student, Nighttime Digital Artist.
 - 🌱 Studying **BS Computer Science** at **University of Sto. Tomas - Legazpi**
-- ⚡️ Current President of **Computer Science Society** at UST-L 
+- ⚡️ Current President of **Computer Science Society** at UST-L
+- 💬 Daytime Programming Student, Nighttime Digital Artist.
 
 ### Work/Business
 - 👨‍💻 Latest Repository for Projects: [2nd Year Repository](https://github.com/milktwii/Sophomore-Repository)  
