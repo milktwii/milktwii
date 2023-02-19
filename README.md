@@ -4,10 +4,10 @@
 <h3 align="center">I am a Student, trying my best.</h3>
 
 ### About Me
-- 🌸 A **BS Computer Science** Student at **University of Sto. Tomas - Legazpi**
+- 🔭 A **BS Computer Science** Student at **University of Sto. Tomas - Legazpi**
 - 🌱 I'm currently studying **Java** and **C++**
-- 💬 Daytime Programming Student, Nighttime Digital Artist.
-- ⚡️ The current President of **Computer Science Society**
+- 💬 Ask me about arts and design
+- ⚡️ Fun Fact: I like bread
 
 ### Work/Business
 - 👨‍💻 Latest Repository for Projects: [2nd Year Repository](https://github.com/milktwii/Sophomore-Repository)  
