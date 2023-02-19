@@ -1,3 +1,4 @@
+![Logo](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)
 <h1 align="center">Hi! 👋</h1>
 <h3 align="center">Meet the dumdum CS Student who's trying her best.</h3>
 
