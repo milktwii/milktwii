@@ -5,10 +5,10 @@
 
 
 ### About Me
-- 🔭 A **BS Computer Science** Student at **University of Sto. Tomas - Legazpi**
-- 🌱 I'm currently studying **Java** and **C++**
-- 💬 Ask me about arts and design
-- ⚡️ Fun Fact: I like bread
+- 🔭 A **Computer Science** Student at **University of Sto. Tomas - Legazpi**
+- 🌱 I'm currently studying **Java** and **C++**!
+- 💬 Ask me about arts, design, or anything really...
+- ⚡️ Fun Fact: I like milk and bread!
 
 ### Work/Business
 - 👨‍💻 Latest Repository for Projects: [2nd Year Repository](https://github.com/milktwii/Sophomore-Repository)  
