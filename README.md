@@ -3,12 +3,13 @@
 <h1 align="center">Hello World! 👋</h1>
 <h3 align="center">I am Tsha, a dumdum student trying her best.</h3>
 
+<h3 align="left">About Me:</h3>
 - 💬 Daytime Programming Student, Nighttime Digital Artist
 - 🌱 I’m currently studying **BS Computer Science** at **University of Sto. Tomas - Legazpi**
 - ⚡️ Current President of Computer Science Society - UST-L 
 
-<h3 align="left">Business Related:</h3>
-- 👨‍💻 Latest Repository for Projects: [2nd Year Repository](https://github.com/milktwii/Sophomore-Repository)
+<h3 align="left">Work Related:</h3>
+- 👨‍💻 Latest Repository for Projects: [2nd Year Repository](https://github.com/milktwii/Sophomore-Repository)  
 - 📫 Contact Email: **trishamarie.peralta@ust-legazpi.edu.ph**
 
 <h2 align="center">Skill Set:</h2>
