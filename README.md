@@ -1,7 +1,8 @@
 <p align="center"><img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Header"></p>
    
 <h1 align="center">Hello World! 👋</h1>
-<h3 align="center">I am a Student, trying my best.</h3>
+<h3 align="center">I am Tsha.</h3>
+<h3 align="center">A Student, Leader, and Artist.</h3>
 
 ### About Me
 - 🔭 A **BS Computer Science** Student at **University of Sto. Tomas - Legazpi**
