@@ -1,4 +1,5 @@
-![Header](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)
+<p style="text-align:center;"><img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Header"></p>
+   
 <h1 align="center">Hi! 👋</h1>
 <h3 align="center">Meet the dumdum CS Student who's trying her best.</h3>
 
